@@ -1,5 +1,5 @@
 {
-  "name": "deryckere",
+  "name": "abloc",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,23 @@
     "start": "next start"
   },
   "dependencies": {
+    "@barba/core": "^2.9.7",
     "next": "10.2.3",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-parallax": "^3.3.0",
+    "react-reveal": "^1.2.2",
+    "react-scroll": "^1.8.2",
+    "react-scroll-to": "^3.0.0-beta.6",
+    "react-smooth-scrolling": "^1.0.2",
+    "react-sticky": "^6.0.3",
+    "remixicon": "^2.5.0",
+    "sass": "^1.34.1",
+    "swiper": "^6.7.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.4"
   }
 }

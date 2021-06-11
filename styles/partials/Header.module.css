@@ -1,0 +1,8 @@
+.header {
+    transition: ease-in-out .3s;
+    top: 0;
+}
+
+.header.header-unpinned {
+    top: -200px;
+}

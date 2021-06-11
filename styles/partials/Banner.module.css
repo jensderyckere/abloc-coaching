@@ -1,0 +1,43 @@
+.banner-circle {
+    width: 600px;
+    height: 600px;
+    right: -100px;
+    bottom: -200px;
+    z-index: -2;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .banner-circle {
+        width: 800px;
+        height: 800px;
+        bottom: -400px;
+        right: 0;
+        left: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+    .banner-circle {
+        width: 600px;
+        height: 600px;
+        bottom: -300px;
+        right: 0;
+        left: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width: 639px) {
+    .banner-circle {
+        width: 300px;
+        height: 300px;
+        bottom: -150px;
+        right: 0;
+        left: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

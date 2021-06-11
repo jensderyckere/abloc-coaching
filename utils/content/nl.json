@@ -1,0 +1,103 @@
+{
+    "data": {
+        "email": "abloc@coaching.be",
+        "phone": "0477273697"
+    },
+    "nav": {
+        "items": [
+            {
+                "href": "/",
+                "title": "Home"
+            },
+            {
+                "href": "about",
+                "title": "Over mij"
+            },
+            {
+                "href": "services",
+                "title": "Diensten"
+            },
+            {
+                "href": "contact",
+                "title": "Contact"
+            }
+        ]
+    },
+    "banner": {
+        "title": "A'Bloc Coaching",
+        "subtitle": "Lorem ipsum doler sit amet",
+        "primaryButton": {
+            "text": "Bekijk meer",
+            "link": "about"
+        },
+        "secondaryButton": {
+            "text": "Contacteer mij",
+            "link": "contact"
+        }
+    },
+    "about": {
+        "tagline": "Over mij",
+        "title": "Waar ik voor sta",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "tertiaryButton": {
+            "text": "Meer over mijn diensten",
+            "link": "services"
+        }
+    },
+    "services": {
+        "tagline": "Mijn diensten",
+        "title": "Wat ik te bieden heb",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cards": [
+            {
+                "icon": "ri-bike-line",
+                "title": "Fietstraining",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+                "icon": "ri-boxing-fill",
+                "title": "Fysieke begeleiding",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+                "icon": "ri-heart-2-fill",
+                "title": "Mentale begeleiding",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        ],
+        "merch": {
+            "tagline": "Merchandise",
+            "title": "Hebbedingetjes",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "primaryButton": {
+                "text": "Interesse? Contacteer mij!",
+                "link": "mailto:abloc@coaching.be"
+            },
+            "products": [
+                {
+                    "title": "Hoodie A'Bloc Coaching",
+                    "price": "25.00 €",
+                    "images": ["269190.jpeg", "269191.jpeg", "269192.jpeg"]
+                },
+                {
+                    "title": "Hoodie A'Bloc Coaching",
+                    "price": "25.00 €",
+                    "images": ["269190.jpeg", "269191.jpeg", "269192.jpeg"]
+                },                
+                {
+                    "title": "Hoodie A'Bloc Coaching",
+                    "price": "25.00 €",
+                    "images": ["269190.jpeg", "269191.jpeg", "269192.jpeg"]
+                }
+            ]
+        }
+    },
+    "contact": {
+        "tagline": "Contact",
+        "title": "Benieuwd naar meer?",
+        "subtitle": "Contacteer mij dan via onderstaande gegevens",
+        "images": [],
+        "email": "abloc@coaching.be",
+        "phone": "0477273697"
+    }
+}
