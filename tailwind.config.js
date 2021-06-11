@@ -1,6 +1,6 @@
 module.exports = {
     mode: "jit",
-    purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+    purge: ["./components/**/*.{js,ts,jsx,tsx}", "./pages/**/*.{js,ts,jsx,tsx}"],
     darkMode: false,
     theme: {
         fontSize: {
@@ -29,5 +29,9 @@ module.exports = {
     variants: {
         extend: {},
     },
-    plugins: [],
+    plugins: [
+        "postcss-import",
+        "tailwindcss",
+        "autoprefixer"
+    ],
 }
