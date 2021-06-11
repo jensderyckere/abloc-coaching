@@ -1,8 +1,16 @@
 @import "./fonts.css";
 
+/* purgecss start ignore */
 @tailwind base;
+
 @tailwind components;
+/* purgecss end ignore */
 @tailwind utilities;
+
+/* purgecss start ignore */
+html {
+  @apply antialiased;
+}
 
 /** Partials **/
 @import "./partials/Header.module.css";
