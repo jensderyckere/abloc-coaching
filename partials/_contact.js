@@ -32,7 +32,7 @@ export default function Contact({ content }) {
                                 </a>
                                 <a href={`mailto:${content.email}`} className="flex items-center font-primary mt-4">
                                     <span className="bg-green-500 mr-3 shadow-md text-white text-lg w-8 h-8 flex justify-center items-center rounded-full">
-                                        <i class="ri-mail-open-fill"></i>
+                                        <i className="ri-mail-open-fill"></i>
                                     </span>
                                     { content.email }
                                 </a>
